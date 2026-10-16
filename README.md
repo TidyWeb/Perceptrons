@@ -1,6 +1,6 @@
 # Perceptrons
 
-## [🌐 Open the live site: https://tidyweb.github.io/Perceptrons/ ↗](https://tidyweb.github.io/Perceptrons/)
+### [Visit the live site ↗](https://tidyweb.github.io/Perceptrons/)
 
 
 An independent visual companion to the Code Institute Section 8 sequence on perceptrons:
